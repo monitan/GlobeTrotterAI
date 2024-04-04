@@ -15,10 +15,6 @@ Welcome to GlobeTrotterAI, your digital companion for exploring the wonders of o
 
 GlobeTrotterAI is an open-source project, and we welcome contributions of all kinds. Whether you're looking to add new features, improve existing ones, or fix bugs, your contributions are greatly appreciated.
 
-## License
-
-GlobeTrotterAI is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
-
 ## Contact
 
 Join us in redefining the future of travel with GlobeTrotterAI!
