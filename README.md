@@ -11,19 +11,6 @@ Welcome to GlobeTrotterAI, your digital companion for exploring the wonders of o
 - **Language Assistance**: Navigate foreign languages with ease thanks to our real-time translation feature, making communication and understanding local nuances a breeze.
 - **Sustainable Travel Options**: Explore eco-friendly travel options that help reduce your carbon footprint while discovering the beauty of our planet.
 
-## Getting Started
-
-To embark on your next adventure with GlobeTrotterAI, follow these simple steps:
-
-1. **Clone the repository**:
-git clone https://github.com/monitan/GlobeTrotterAI.git
-
-2. **Install dependencies**:
-pip install -r requirements.txt
-
-3. **Run the application**:
-python app.py
-
 ## Contribution
 
 GlobeTrotterAI is an open-source project, and we welcome contributions of all kinds. Whether you're looking to add new features, improve existing ones, or fix bugs, your contributions are greatly appreciated.
@@ -33,7 +20,5 @@ GlobeTrotterAI is an open-source project, and we welcome contributions of all ki
 GlobeTrotterAI is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
-
-For any inquiries or further information, please contact us at [globetrotterai@example.com](mailto:globetrotterai@example.com).
 
 Join us in redefining the future of travel with GlobeTrotterAI!
