@@ -1,0 +1,15 @@
+python train_sft.py \
+    --model_name_or_path internlm-7b \
+    --use_lora true \
+    --data_path data \
+    --output_dir output \
+    --num_train_epochs 5 \
+    --per_device_train_batch_size 3 \
+    --per_device_eval_batch_size 1 \
+    --gradient_accumulation_steps 8 \
+    --evaluation_strategy "no" \
+    --save_strategy "epoch" \
+    --save_total_limit 3 \
+    --learning_rate 4e-4 \
+    --logging_steps 10 \
+    --model_max_length 2048
